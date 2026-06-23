@@ -1,8 +1,18 @@
 # IMU-Module
 A very simple IMU module
 
+<details>
+  <summary>BOM</summary>
+  
+| Name|Purpose|Quantity|Total Cost (USD)|Link|Distributor |  
+| ----|-------|--------|----------------|----|----------- |
+| PCB + stencil|all components are on this|1|18|https://jlcpcb.com|jlcpcb |  
+| ALL components|all components that are on pcb|1|20|https://lcsc.com|lcsc|  
+|  |  |  Total cost|38| | |  
 
-# Picture  
+</details>
+
+# Pictures  
 
 
 **Schematic**  
