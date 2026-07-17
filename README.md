@@ -13,6 +13,10 @@ I made this because most IMU have some sort of fallback, either bad imu, no ldo 
 
 </details>
 
+In production folder, is lcsc bom which has all components ready to import to lcsc, and gerber files and placement if using pcba.  
+
+
+
 # Pictures  
 
 
