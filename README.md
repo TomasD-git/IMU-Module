@@ -1,5 +1,5 @@
-# IMU-Module
-A very simple IMU module  
+# IMU-ModuleS
+Simple IMU module, uses LSM6DSOXTR as IMU and XC6228D332VR-G as LDO    
 I made this because most IMU have some sort of fallback, either bad imu, no ldo on board etc.. 
 
 <details>
