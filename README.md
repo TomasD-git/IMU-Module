@@ -1,13 +1,14 @@
 # IMU-Module
-A very simple IMU module
+A very simple IMU module  
+I made this because most IMU have some sort of fallback, either bad imu, no ldo on board etc.. 
 
 <details>
   <summary>BOM</summary>
   
 | Name|Purpose|Quantity|Total Cost (USD)|Link|Distributor |  
 | ----|-------|--------|----------------|----|----------- |
-| PCB + stencil|all components are on this|1|18|https://jlcpcb.com|jlcpcb |  
-| ALL components|all components that are on pcb|1|20|https://lcsc.com|lcsc|  
+| PCB + stencil|all components are on this|5|8|https://jlcpcb.com|jlcpcb |  
+| ALL components|all components that are on pcb|1|10|https://lcsc.com|lcsc|  
 |  |  |  Total cost|38| | |  
 
 </details>
